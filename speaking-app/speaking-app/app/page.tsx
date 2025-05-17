@@ -1,4 +1,4 @@
-"use client";
+// App luyện nói tiếng Anh đơn giản với sửa lỗi phát âm
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
